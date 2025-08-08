@@ -37,8 +37,8 @@ import (
     "crypto/rand"
     "encoding/base64"
     "fmt"
-    "github.com/lucianojbf/go-argon2id"
-)
+    "github.com/LucianoJBarbosa/go-argon2id"
+) 
 
 func main() {
     // Gerar um salt aleatório
